@@ -1,2 +1,2 @@
 # general_scripts
-pack og general scripts
+pack of general scripts
